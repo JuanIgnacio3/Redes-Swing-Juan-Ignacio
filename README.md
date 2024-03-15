@@ -1,4 +1,4 @@
 # Redes+Swing
 
-Este git es para el entregable de redes + swing 
+Este repositorio es para el entregable de redes + swing 
 -**Juan Ignacio Vargas Ramírez** 
